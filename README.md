@@ -1,2 +1,3 @@
 # hello-world
-A repository
+This is a first repository what ChingPingTseng's begining on GitHub.
+
